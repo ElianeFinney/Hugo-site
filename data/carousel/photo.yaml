@@ -1,0 +1,10 @@
+weight: 2
+title: "Photographer"
+description: >
+  <ul class="list-style-none">
+     <li>Flowers</li>
+     <li>Sunsets</li>
+     <li>Nature</li>
+     <li>People</li>
+   </ul>
+image: "img/carousel/photo_dogwood.png"

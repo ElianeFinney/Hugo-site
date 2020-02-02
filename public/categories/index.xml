@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Eliane&#39;s Home Page</title>
+    <link>https://enmeso.com/efinney/categories/</link>
+    <description>Recent content in Categories on Eliane&#39;s Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://enmeso.com/efinney/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crafts</title>
+      <link>https://enmeso.com/efinney/categories/crafts/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/crafts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers</title>
+      <link>https://enmeso.com/efinney/categories/flowers/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://enmeso.com/efinney/categories/nature/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plants</title>
+      <link>https://enmeso.com/efinney/categories/plants/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smow</title>
+      <link>https://enmeso.com/efinney/categories/smow/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/smow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunsets</title>
+      <link>https://enmeso.com/efinney/categories/sunsets/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/categories/sunsets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

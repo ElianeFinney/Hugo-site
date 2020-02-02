@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunsets on Eliane&#39;s Home Page</title>
+    <link>https://enmeso.com/efinney/tags/sunsets/</link>
+    <description>Recent content in Sunsets on Eliane&#39;s Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://enmeso.com/efinney/tags/sunsets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunsets</title>
+      <link>https://enmeso.com/efinney/blog/2019/10/20/sunsets/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enmeso.com/efinney/blog/2019/10/20/sunsets/</guid>
+      <description>Nature I like taking pictures of sunsets too.</description>
+    </item>
+    
+  </channel>
+</rss>

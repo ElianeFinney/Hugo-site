@@ -1,0 +1,9 @@
+weight: 3
+title: "Artist"
+description: >
+  <ul class="list-style-none">
+     <li>Objects of art</li>
+     <li>Arrangements</li>
+     <li>Presentations</li>
+   </ul>
+image: "img/carousel/art_bunnies.png"
