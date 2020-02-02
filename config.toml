@@ -1,4 +1,4 @@
-baseurl = "https://efinney.netlify.com/"
+baseurl = "https://enmeso.com/efinney/"
 title = "Eliane"
 theme = "universal"
 themesDir = "themes"
@@ -101,7 +101,7 @@ paginate = 10
     contact_form_ajax = false
 
     about_us = "<p>I like people, arts, crafts, and photography.</p>"
-    copyright = "Copyright (c) 2019, Eliane Finney. All rights reserved."
+    copyright = "Copyright (c) 2020, Eliane Finney. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "Jan 2, 2006"
@@ -117,7 +117,7 @@ paginate = 10
       """
     latitude = "-32.3015"
     longitude = "115.7465"
-    description="foo bar"
+    description="locality"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
