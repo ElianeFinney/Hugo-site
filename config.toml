@@ -1,4 +1,4 @@
-baseurl = "https://enmeso.com/efinney/"
+baseurl = "https://efinney.netlify.com/"
 title = "Eliane's Home Page"
 theme = "universal"
 themesDir = "themes"
