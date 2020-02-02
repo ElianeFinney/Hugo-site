@@ -1,5 +1,5 @@
 baseurl = "https://efinney.netlify.com/"
-title = "Eliane -- Home Page"
+title = "Home Page of Eliane"
 theme = "universal"
 themesDir = "themes"
 languageCode = "en-us"
